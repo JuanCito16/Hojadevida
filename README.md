@@ -13,7 +13,12 @@ Soy una persona con muchas ganas de superarse y por eso me esfuerzo siempre para
 | Primaria     | Centro educativo La misericordia | Soledad, Atlantico | 2010 - 2015 |
 |-------------------|-------------|---------------|--------------|
 | **Secundaria**   | **I.E.D Maria Cano** | **Barranquilla, Atlantico**  | **2016 - 2021** |
-
+## Datos personales
+- **Nombre:** Juan David Vides Jimenez
+- **Documento de identidad:** 1044613320
+- **Fecha de nacimiento:** 16/08/2005
+- **Lugar de nacimiento:** Barranquila, Colombia
+- **Direccion:** Calle 64 N12-22
 ## Contacto 
 - 📧 juanvides112011@gmail.com
 - 📞 3225670757

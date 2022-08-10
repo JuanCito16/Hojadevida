@@ -3,7 +3,7 @@ Proyecto hoja de vida
 # HOJA DE VIDA 
 ## Juan David Vides Jimenez
 
-<a href="https://ibb.co/8rjtP0Q"><img src="https://i.ibb.co/8rjtP0Q/Whats-App-Image-2022-08-08-at-4-32-59-PM.jpg" alt="Whats-App-Image-2022-08-08-at-4-32-59-PM" border="0"></a>
+![Foto](https://avatars.githubusercontent.com/u/105831942?v=4)
 - Bachiller 
 - Tecnico en matenimiento de equipos de computo
 
@@ -17,4 +17,4 @@ Soy una persona con muchas ganas de superarse y por eso me esfuerzo siempre para
 ## Contacto 
 - 📧 juanvides112011@gmail.com
 - 📞 3225670757
-
+- 📷 Juan_Vi16
